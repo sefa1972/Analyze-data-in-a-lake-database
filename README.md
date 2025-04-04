@@ -1,3 +1,5 @@
+Analysis of Lake Database with Azure Synapse Analytics
+
 This project focuses on creating a lake database using Azure Synapse Analytics, defining table schemas, loading data, and querying with SQL. Azure Synapse Analytics provides a scalable and flexible solution for big data analytics, combining both relational database capabilities and data lake flexibility.
 
 Project Steps
